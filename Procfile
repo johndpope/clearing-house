@@ -1,0 +1,1 @@
+web: ENV_TYPE=production invoke run

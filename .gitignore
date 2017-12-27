@@ -1,0 +1,8 @@
+venv
+test.db
+.idea/
+__pycache__/
+test_wallets
+secure_settings.py
+cover
+.coverage

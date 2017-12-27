@@ -1,0 +1,1 @@
+from .view import NewTagView, TagsView, EditTagView, DeleteTagView

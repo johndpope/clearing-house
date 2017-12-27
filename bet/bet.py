@@ -1,0 +1,2 @@
+class Bet:
+    pass
